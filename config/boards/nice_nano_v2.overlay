@@ -1,0 +1,9 @@
+&reg0 {
+    regulator-initial-mode = <1>;
+    status = "okay";
+};
+
+&reg1 {
+    regulator-initial-mode = <1>;
+    status = "okay";
+};
