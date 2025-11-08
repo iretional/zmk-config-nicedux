@@ -1,0 +1,12 @@
+// 주변장치 모두 끄기
+&uart0 {
+    status = "disabled";
+};
+
+&i2c0 {
+    status = "disabled";
+};
+
+&spi1 {
+    status = "disabled";
+};
